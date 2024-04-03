@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Definir el color primario y el color de fondo de la aplicación -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+
+    <!-- Definir el estilo de la barra de acción -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Color de la barra de acción -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Color de fondo de la actividad -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+</resources>

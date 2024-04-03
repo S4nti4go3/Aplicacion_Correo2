@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intento_2</string>
+    <string name="responder_button_text">Responder</string>
+    <string name="toast_message_responder">Responder al correo</string>
+</resources>

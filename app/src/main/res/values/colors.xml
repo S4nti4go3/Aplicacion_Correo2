@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="readEmailBackground">#FF0000</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="selected_item_background">#F0F0F0</color>
+    <color name="text_primary">#000000</color> <!-- Color negro para texto primario -->
+    <color name="text_secondary">#888888</color> <!-- Color gris para texto secundario -->
+</resources>
